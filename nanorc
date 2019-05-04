@@ -23,10 +23,10 @@
 set autoindent
 
 ## Back up files to the current filename plus a tilde.
-set backup
+#set backup
 
 ## The directory to put unique backup files in.
-set backupdir "/tmp/nano_bk/"
+#set backupdir "/tmp/nano_bk/"
 
 ## Use bold text instead of reverse video text.
 # set boldtext
@@ -58,7 +58,7 @@ set constantshow
 set historylog
 
 ## Display line numbers to the left of the text.
-set linenumbers
+#set linenumbers
 
 ## Enable vim-style lock-files.  This is just to let a vim user know you
 ## are editing a file [s]he is trying to edit and vice versa.  There are
@@ -77,7 +77,7 @@ set locking
 ## mouse clicks can be used to place the cursor, set the mark (with a
 ## double click), and execute shortcuts.  The mouse will work in the X
 ## Window System, and on the console when gpm is running.
-set mouse
+#set mouse
 
 ## Switch on multiple file buffers (inserting a file will put it into
 ## a separate buffer).
